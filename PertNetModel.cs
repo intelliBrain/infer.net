@@ -1,4 +1,6 @@
-﻿using System;
+﻿
+// change on server 
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,7 +9,7 @@ using MicrosoftResearch.Infer.Distributions;
 using MicrosoftResearch.Infer.Maths;
 using MicrosoftResearch.Infer.Models;
 using MicrosoftResearch.Infer.Factors;
-
+//comment on server 
 namespace InferGeneNet
 {
     public class PertNetModel
